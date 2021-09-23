@@ -22,7 +22,7 @@ body {
   background-color: lightgray;
   max-width: 1000px;
   margin: 0 auto;
-  background-image: url("/img/gradient.jpeg");
+  background-image: url("../img/gradient.jpeg");
   background-position: center;
   background-repeat: no-repeat;
 }
